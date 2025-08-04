@@ -77,3 +77,5 @@ const notes=require('./notes.js');
 var age=notes.age;
 console.log(age);
  
+
+//  add the partial commends for the system 
